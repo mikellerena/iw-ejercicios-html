@@ -1,0 +1,49 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5em;
+}
+#Indice{
+    font-size: large;
+    margin-right:1390px;
+}
+#Indice:hover{
+    font-size: larger;
+}
+#A:hover{
+    color:red;
+}
+#B:hover{
+    color:green;
+}
+#C:hover{
+    color:black;
+}
+#D:hover{
+    color:orange;
+}
+#titulo1{
+    color:#94A0D2
+}
+#titulo2{
+    color:#A046D7
+}
+#titulo3{
+    color:#FC0000
+}
+#titulo4{
+    color:#2EFC00
+}
+table {
+   width: 100%;
+   border: 5px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   border: 1px solid #000;
+   padding: 0.3em;
+}
+
+th {
+   background: #eee;
+}
