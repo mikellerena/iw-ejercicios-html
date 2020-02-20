@@ -1,0 +1,22 @@
+.Centrado{
+    text-align: center;
+}
+
+#Contacto{
+    border:solid;
+    float:right;
+}
+#SobreMi{
+ 
+    border:solid;
+    
+}
+#MisProyectos{
+  
+    border:solid;
+}
+#Organizar{
+    display:flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
